@@ -1,0 +1,10 @@
+
+sample data from the file:0100111001100101
+
+NRZ wave for the sample data:______------____________------------------____________------------____________------______------
+
+Manchester wave for the sample data: --__  __--  --__  --__  __--  __--  __--  --__  --__  __--  __--  --__  --__  __--  --__  __-- 
+
+No.of transitions for the entire file
+No.of transitions in NRZ:2075
+No.of transitions in Manchester:6036
